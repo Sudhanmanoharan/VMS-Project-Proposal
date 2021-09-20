@@ -1,6 +1,6 @@
 # Vehicle Management System Using BlockChain
 
-## Abstarct
+## Abstract
 
 - Managing a vehicle is important in one's life. Either managing data about vehicles or making a carbon-free environment by eliminating polluting vehicles a system is required. This system would help in vehicle theft because at present one is unable to track the vehicle. To solve this problem we are providing a system using Blockchain to manage vehicles including owner data, accident tracker, parts damage, service history and avoid theft by blocking the sale of vehicles in the aftermarket.
 
